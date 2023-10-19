@@ -3,7 +3,7 @@ import React from 'react'
 function Home() {
   return (
     <div className=''>
-        <div className='w-[100vw] h-[100%]'>
+        <div className='w-[100vw] h-[100vh]'>
             {/* <div className='z-0 w-10px '>
             <video src="/ocean.mp4"  className=' ' autoPlay  loop muted></video>
             </div> */}
@@ -22,7 +22,7 @@ function Home() {
                 </ul>
             </div>
 
-            <div className=' relative left-40 top-[30vh] '>
+            <div className=' relative ml-[10vh] top-[30vh]  '>
                 <h1 className=' font-bold text-[36px]'>Bringing Transformation Through <br />
 Technology.</h1>
           <div  className=' flex gap-3'>
