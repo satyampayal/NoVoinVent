@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="78" viewBox="0 0 102 78">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="102" height="78" transform="translate(-0.3 0)"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_10" data-name="Artboard – 10" transform="translate(0.3)" clip-path="url(#clip-path)">
+    <g id="Group_215" data-name="Group 215" transform="translate(2.6 2.951)">
+      <g id="Group_14" data-name="Group 14">
+        <path id="Icon_awesome-mixcloud" data-name="Icon awesome-mixcloud" d="M81.785,37.521c-1.6-18.342-15.5-32.74-32.331-32.74-13.822,0-26.07,9.858-30.693,24.5.045-.148,0-.017-.035.114C8.2,31.129.076,41.227.076,53.475c0,13.443,9.776,24.376,21.857,24.376h55.9c10.1,0,18.33-9.142,18.33-20.433,0-9.738-6.2-17.923-14.375-19.89Z" transform="translate(-0.076 -4.781)" fill="none" stroke="#e8583a" stroke-width="3"/>
+        <path id="Path_7" data-name="Path 7" d="M0,0H0L2.718.13H14.568" transform="translate(17.705 24.478)" fill="#fff" stroke="#e8583a" stroke-width="3"/>
+        <line id="Line_6" data-name="Line 6" y2="11.174" transform="translate(81.02 27.271)" fill="none" stroke="#e8583a" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

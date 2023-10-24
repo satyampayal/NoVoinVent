@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Services from './Services'
 function Practise() {
   return (
     
@@ -15,8 +15,13 @@ Are you looking for someone to realize your business idea as a fully designed an
 Do you have a product design and need a team that can implement a sophisticated, scalable and secure platform to realize your vision? <br />
 
 Are you having challenges with your current platforms and need a team to provide you comprehensive managed services? <br /> <br />
+<p className=' text-orange-700 text-[18px] text-left '>      
+     Contact us regarding our NovoIncubator or NovoManaged services to engage our team.
         </p>
-       </div>
+<Services/>
+        </p>
+     </div>
+     
     </div>
    
   )
